@@ -1,0 +1,2 @@
+JAVA is Fun.
+Try-with-resources is useful.
